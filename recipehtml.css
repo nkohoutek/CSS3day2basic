@@ -8,7 +8,7 @@ box-shadow: 5px 0px 10px #778899,
 -5px 0px 10px #778899;
 }
 
-p li {
+p , li {
 color: #707070;
 	}
 
