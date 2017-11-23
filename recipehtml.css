@@ -1,0 +1,61 @@
+.container {
+
+margin: auto;
+width: 800px;
+padding-right: 50px;
+padding-left: 50px;
+box-shadow: 5px 0px 10px #778899,
+-5px 0px 10px #778899;
+}
+
+p li {
+color: #707070;
+	}
+
+li {
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+header {
+text-align: center;
+}
+
+h1 {
+color: #DB0038;
+}
+
+h2 {
+color: #3998A3;
+}
+
+h3 {
+color: #474747;
+}
+
+hero div
+ {
+padding-bottom: 10px;
+background-color: #f4f4f4;
+text-align: center;
+}
+
+.rating
+{
+text-align: center;
+}
+
+.rating span
+{color: #F4B400;
+font-size: 25px;
+}
+
+
+footer {
+align-content: center;
+}
+
+@font-face {
+font-family: "Droid Serif";
+src: url("DroidSerif.woff")
+}
